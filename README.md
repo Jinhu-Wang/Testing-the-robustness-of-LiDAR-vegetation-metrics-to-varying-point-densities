@@ -12,5 +12,5 @@ This folder contains the C++ source codes that compute the vegetation metrics. T
 This folder consists of the Python scripts used for plotting boxplots of the computed vegetation metrics for various plot sizes and point densities.
 
 
-## Link to Zenodo source data and output
+## Link to Zenodo source datasets and output
 [Datasets for testing the robustness of LiDAR vegetation metrics to varying point densities](https://zenodo.org/records/12783696).
